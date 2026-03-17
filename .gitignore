@@ -1,0 +1,9 @@
+# arquivos compilados
+*.out
+*.exe
+*.o
+
+# executáveis comuns
+main
+
+.vscode/
