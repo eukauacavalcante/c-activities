@@ -8,7 +8,7 @@ O Script precisa calcular as probabilidades para ajudar os cientistas a entender
 3. Qual a probabilidade de um herói ter recebido a Vacina B e sofrido o evento adverso (poderes trocados)?
 4. Qual a probabilidade de um herói ter recebido a Vacina A OU sofrido o evento adverso (ou ambos)?
 
-VACINAS      Poderes Trocados  Poderes Normais   Total
+Vacinas      Poderes Trocados  Poderes Normais   Total
 Vacina A        12 heróis         238 heróis      250
 Vacina B        38 heróis         132 heróis      170
 Total           50 heróis         370 heróis      420
